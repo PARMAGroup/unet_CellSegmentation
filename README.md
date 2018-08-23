@@ -26,8 +26,8 @@ Instructions:
      python unet_CellSegmentation.py
 
 - Requirments:
-  -Python >=3.5 with standard modules (numpy, etc)
-  -tensorflow
-  -keras
-  -pillow
+  - Python >=3.5 with standard modules (numpy, etc)
+  - tensorflow
+  - keras
+  - pillow
 
