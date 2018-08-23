@@ -5,10 +5,7 @@ The directory tree is organized as follows:
 
     - ./raw
     Raw images  used for prediction have to be stored here. 
-
-    - ./lib
-    This directory is for modules used by the output_predictions.py program. 
-
+    
     - ./weights
     Trained weights for Unet are stored here.
 
