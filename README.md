@@ -19,7 +19,6 @@ The directory tree is organized as follows:
 Instructions:
 
 - To run use this command:
-     - To run use this command:
      python unet_CellSegmentation.py
 
 - Requirments:
